@@ -7,3 +7,5 @@ PyYAML==6.0.2
 yfinance==0.2.43
 vaderSentiment==3.3.2
 plotly==5.24.1
+pandas==2.1.1
+numpy==1.26.0

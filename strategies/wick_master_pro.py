@@ -389,3 +389,6 @@ class WickMasterPro(BaseBot):
             'timestamp': signal.timestamp.isoformat(),
             'metadata': signal.metadata
         }]
+
+# Export as Strategy for loader
+Strategy = WickMasterPro

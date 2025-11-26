@@ -1,1 +1,1 @@
-# Strategies module
+# Strategies package

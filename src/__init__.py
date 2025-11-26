@@ -1,1 +1,1 @@
-# Src module
+# Src package

@@ -1,1 +1,1 @@
-# Bots module initialization
+# Bots package

@@ -1,1 +1,1 @@
-# Brokers module
+# Brokers package
